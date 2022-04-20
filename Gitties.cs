@@ -12,4 +12,4 @@ joke()
 shoutUp()
 
 shoutUP()
-
+clean()

@@ -1,2 +1,2 @@
-introduce(Console.WriteLine("Hello, I'm Gittie!");
+introduce(Console.WriteLine("Hello, I'm Gittie, im angry!! RooaaoaoaR!");
 joke()

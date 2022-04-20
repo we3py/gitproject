@@ -9,6 +9,6 @@ add(int a, int b){
 }
 
 joke()
-shout ()
+shoutUp()
 
 

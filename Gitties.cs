@@ -12,4 +12,8 @@ joke()
 shoutUp()
 
 shoutUP()
+
 clean()
+
+    ultimateWorkMetod();
+
